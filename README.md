@@ -9,5 +9,8 @@
 - http://ryanmorr.com/
 - https://codeburst.io/objects-and-hash-tables-in-javascript-a472ad1940d9
 
+# data-structures
+ 1) Hash-tables:
+    - https://www.youtube.com/watch?v=KyUTuwz_b7Q
 # other
 - https://12factor.net/config
