@@ -6,6 +6,7 @@
 
 # javascript
 - http://ryanmorr.com/true-hash-maps-in-javascript/
+- http://ryanmorr.com/
 - https://codeburst.io/objects-and-hash-tables-in-javascript-a472ad1940d9
 
 # other
